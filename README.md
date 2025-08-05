@@ -1,6 +1,6 @@
 # Desafío Python - Alura Store LATAM
 
-Este proyecto fue realizado como parte del desafío de Alura sobre el desarrollo de una tienda en línea (Alura Store) usando Python. El objetivo principal es crear una solución que permita gestionar productos, ventas y facturación.
+Este proyecto fue realizado como parte del desafío de Alura sobre el desarrollo de una tienda en línea (Alura Store) usando Python. El objetivo principal es crear una solución que permita gestionar productos, ventas y facturación para la toma de decisiones a la hora de invertir.
 
 ## Contenido del Proyecto
 
